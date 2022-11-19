@@ -35,7 +35,6 @@ for i in range(1000):
     syn0 += np.dot(l0.T,l1_delta)
 
 #output
-print(syn0)
 print('output after training:')
 print(l1)
 print('real output:')
