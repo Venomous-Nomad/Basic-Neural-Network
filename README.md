@@ -2,6 +2,8 @@ Basic Neural Network
 
 This is a very quick and small project that people can copy and use to get to know neural networks in programming more.
 
+amount of training iterations can be changed in line 24 of NeuralNetwork.py
+
 inputs and outputs used:
 [0, 0, 1 = 0]
 [1, 1, 1 = 1]
