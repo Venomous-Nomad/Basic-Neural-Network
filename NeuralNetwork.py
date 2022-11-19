@@ -39,4 +39,3 @@ print('output after training:')
 print(l1)
 print('real output:')
 print(y)
-        
