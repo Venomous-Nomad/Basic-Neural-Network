@@ -1,6 +1,6 @@
 This is a 3 layer, 2 synapse neural network that predicts the type of biome from environmental factors.
 
-<b>To use, run 
+<b>To use, run BiomeNetworkv3.py<b>
 
 I may add more biomes and factors, but for another day.
 
