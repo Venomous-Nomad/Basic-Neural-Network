@@ -55,7 +55,7 @@ for i in range(1000):
     syn0 += l0.T.dot(l1_delta)
 
 #main program
-print('||Biome Guessing Neural Network||\nEnter the probability of each factor as a decimal (1 - 0)')
+print('||Biome Guessing Neural Network||\nEnter the probability of each factor as a decimal (0 - 1)')
 trees = float(input('trees: '))
 shrubs = float(input('shrubs: '))
 sand = float(input('sand: '))
